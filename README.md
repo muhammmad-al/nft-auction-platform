@@ -6,3 +6,8 @@
 
 > **Note:** This is a personal portfolio project and is not intended for real financial transactions.
 
+## Technology Stack
+- **Frontend**: React, JavaScript
+- **Backend**: Node.js, Express
+- **Blockchain**: Sepolia Testnet, Web3.js
+- **Deployment**: Heroku

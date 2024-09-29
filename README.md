@@ -11,3 +11,9 @@
 - **Backend**: Node.js, Express
 - **Blockchain**: Sepolia Testnet, Web3.js
 - **Deployment**: Heroku
+
+## Future Enhancements
+- **Multi-Blockchain Support**: Extend compatibility to other blockchain networks for broader user participation.
+- **Enhanced User Experience**: Implement additional UX improvements such as advanced filtering and personalized dashboards.
+
+
